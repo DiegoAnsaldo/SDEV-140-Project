@@ -1,0 +1,15 @@
+How to use Super Smash Bros. Ruler Counter:
+
+NOTE: Formerly known as King Counter, but the name was updated to reflect creators views on gender norms.
+
+- Select a character from the listbox and click Select Character to view current ruler
+
+- Click Exit Application to quit program
+
+- Click Change Characters to open second window
+
+	- In second window select from the listbox what character you would like to change the ruler of
+
+	- Type player name into entry box and click enter player name to change ruler
+
+	- Click Exit This Window to go back to main page
